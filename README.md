@@ -1,2 +1,2 @@
 # brandkim.github.io
-Hello world.
+Working on a website.
