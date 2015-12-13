@@ -1,6 +1,7 @@
 h1 {
   color: #DF0101;
   font-family: Times, Verdana, serif;
+  text-align: center;
 }
 h2 {
   font-family: Arial, sans-serif;
